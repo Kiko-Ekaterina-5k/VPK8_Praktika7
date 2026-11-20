@@ -8623,6 +8623,7 @@
 			<CommonModule>ЯндексДоставка</CommonModule>
 			<CommonModule>ЯндексДоставкаКлиентСервер</CommonModule>
 			<CommonModule>ЯндексПереводчик</CommonModule>
+			<CommonModule>_ОбработчикиПодписок</CommonModule>
 			<CommonAttribute>КомментарийЯзык1</CommonAttribute>
 			<CommonAttribute>КомментарийЯзык2</CommonAttribute>
 			<CommonAttribute>НаименованиеЯзык1</CommonAttribute>
@@ -9552,6 +9553,7 @@
 			<EventSubscription>ФункциональностьПриложенияПриИзмененииПередЗаписью</EventSubscription>
 			<EventSubscription>ЦенообразованиеДобавитьЗаписиОчередиЦен</EventSubscription>
 			<EventSubscription>ЦенообразованиеПриИзмененииКурсаВалюты</EventSubscription>
+			<EventSubscription>_КонтрольСуммыПередЗаписью</EventSubscription>
 			<ScheduledJob>АвтоматическоеНачислениеИСписаниеБонусныхБаллов</ScheduledJob>
 			<ScheduledJob>АвтоматическоеПолучениеЭДО</ScheduledJob>
 			<ScheduledJob>АктуализацияСостоянийПодключенныхПодписок</ScheduledJob>
