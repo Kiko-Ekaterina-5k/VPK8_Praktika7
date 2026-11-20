@@ -1456,6 +1456,12 @@
 										</UsualGroup>
 									</ChildItems>
 								</UsualGroup>
+								<InputField name="_СостояниеДоставки" id="7437">
+									<DataPath>Объект._СостояниеДоставки</DataPath>
+									<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+									<ContextMenu name="_СостояниеДоставкиКонтекстноеМеню" id="7438"/>
+									<ExtendedTooltip name="_СостояниеДоставкиРасширеннаяПодсказка" id="7439"/>
+								</InputField>
 								<Pages name="Страницы" id="1569">
 									<Title>
 										<v8:item>
